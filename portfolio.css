@@ -1,0 +1,87 @@
+body {
+font-family: arial, sans-serif;
+margin: 0;
+background-color: #f4f4f4;
+}
+header {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding:50px 20px;
+    background-color: #333;
+}
+section {
+    padding: 20px;
+}
+nav {
+background: #555;
+padding: 15px;
+text-align: center;
+background-color: #444;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-weight: bold;
+
+}
+nav a:hover{ 
+  color: yellow;  
+}
+button:hover{
+   transform: scale(1.05); 
+   background-color: #0056b3;
+}
+section {
+max-width: 800px; 
+margin:20px auto;   
+padding: 20px;
+background: white;
+border-radius: 10px;
+}
+footer {
+ background: #333;  
+ color: white;
+ text-align: center;
+ padding: 15px;
+ margin-top: 20px; 
+}
+
+.project {
+  border: 1px solid #ddd;  
+  padding: 20px;
+   margin-top: 15px 0;
+  border-radius: 10px;
+  background: white;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.project:hover{
+    transform: scale(1.02);
+}
+
+button{
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.profile-pic{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+    object-fit: cover;
+}
+.skill{
+    display: inline-block;
+    background: #007bff;
+    color: white;
+    padding: 10px 15px;
+    margin: 5px;
+    border-radius: 5px;
+}
