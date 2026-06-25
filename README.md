@@ -9,9 +9,9 @@ A personal portfolio website built with HTML, CSS, And Javascript for CodeAlpha 
 [repo](https://github.com/Bradleysimiyu/CodeAlpha_calculator)
 
 ## Tech Stack
-- HTML
-- CSS
-- Javascript
+- HTML5
+- CSS3
+- JavaScript
 
   
 submitted for CodeAlpha Frontend Development Internship
