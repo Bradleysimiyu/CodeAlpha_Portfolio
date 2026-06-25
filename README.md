@@ -2,7 +2,7 @@
 Apersonal portfolio website built with HTML,CSS And javascript for CodeAlpha internship
 
 ## Live Site
-[view portfolio(https://bradleysimiyu.github.io/CodeAlpha_portfolio/)
+[view portfolio(https://bradleysimiyu.github.io/CodeAlpha_Portfolio/)
 
 ## projects
 1. calculator App - [Live Demo](https://github.com/bradleysimiyu/CodeAlpha_calculator/) 
