@@ -12,4 +12,5 @@ A personal portfolio website built with HTML, CSS, And Javascript for CodeAlpha 
 - HTML
 - CSS
 - Javascript
+- 
 submitted for CodeAlpha Frontend Development Internship
