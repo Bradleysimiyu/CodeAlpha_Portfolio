@@ -1,15 +1,15 @@
-# CodeAlpha_portfolio
-Apersonal portfolio website built with HTML,CSS And javascript for CodeAlpha internship
+# CodeAlpha_Portfolio
+A personal portfolio website built with HTML,CSS And javascript for CodeAlpha internship
 
 ## Live Site
-[view portfolio(https://bradleysimiyu.github.io/CodeAlpha_Portfolio/)
+[view portfolio](https://bradleysimiyu.github.io/CodeAlpha_Portfolio/)
 
 ## projects
-1. calculator App - [Live Demo](https://github.com/bradleysimiyu/CodeAlpha_calculator/) 
+1. calculator App - [Live Demo](https://bradleysimiyu.github.io/CodeAlpha_calculator/) 
 [repo](https://github.com/Bradleysimiyu/CodeAlpha_calculator)
 
-##tech stack
+## tech stack
 -HTML
 -CSS
 -Javascript
-submited for CodeAlpha Fronted DevelopmentInternship
+submitted for CodeAlpha Frontend Development Internship
